@@ -1,0 +1,30 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "LiMoBlueprintLib",
+	"Description" : "",
+	"Category" : "Input Devices",
+	"CreatedBy" : "",
+	"CreatedByURL" : "",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : true,
+	"Installed" : true,
+	"RequiresBuildPlatform" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "LiMoBlueprintLib",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default",
+			"WhitelistPlatforms" :
+			[
+				"Win64"
+			]
+		}
+	]
+}
